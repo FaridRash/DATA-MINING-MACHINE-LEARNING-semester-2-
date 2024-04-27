@@ -1,1 +1,1 @@
-"MyNBs - Autoencoder - Excercise.ipynb" was given to us by Professor Longo for an exercise on April 23, 2024
+"MyNBs - Autoencoder - Excercise.ipynb" was given to us by Professor Longo for an exercise on April 23, 2024.
