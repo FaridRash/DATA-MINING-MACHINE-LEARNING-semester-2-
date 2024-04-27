@@ -1,3 +1,7 @@
-# DATA-MINING-MACHINE-LEARNING-semester-2-
-This is only for myself  In this repository, I will start with learning Image Processing, and I have decided to continue it till I at least learn Deep Learning, and I want to upload my final project in it.
-I Started learning Image Processing in youtube with Maryam Sadeghi's videos.
+# DATA-MINING-MACHINE-LEARNING-semester-
+
+This repository is built for the Data Mining and Machine Learning course in the second semester of the Master's degree of Federico II in 2023-2024 by Farid, Sachin, and Jeremiah.
+
+It has two modules:
+Module A: Machine Learning by SICILIANO ROBERTA
+Module B: Deep Learning by LONGO GIUSEPPE
