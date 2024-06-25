@@ -2,7 +2,7 @@
 
 This repository is built for the Data Mining and Machine Learning course in the second semester of the Master's degree of Federico II in 2023-2024 by Farid, Sachin, and Jeremiah.
 
-Forozan joined us on June 21.
+Foroozan joined us on June 21.
 
 
 It has two modules:
